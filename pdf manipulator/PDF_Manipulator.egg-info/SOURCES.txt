@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+pdf_manipulator.desktop
+setup.py
+PDF_Manipulator.egg-info/PKG-INFO
+PDF_Manipulator.egg-info/SOURCES.txt
+PDF_Manipulator.egg-info/dependency_links.txt
+PDF_Manipulator.egg-info/requires.txt
+PDF_Manipulator.egg-info/top_level.txt
+py/delete_pages.py
+py/pdf_manipulator.py

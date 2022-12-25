@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=0.1.0
+Type=Application
+Name=PDF_Manipulator
+Comment=PDF Manipulator for lazy dev
+Exec=py
+Icon=/home/dogma/Pictures/pdf.png
+Terminal=false
+StartupNotify=true
+X-GNOME-Autostart-enabled=true

@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Sun, 25 Dec 2022 03:42:17 +0200
+Source: pdf-manipulator
+Built-For-Profiles: noudeb
+Architecture: source
+Version: 0.1.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: 2Math0 <thomas.meshail@gmail.com>
+Changed-By: 2Math0 <thomas.meshail@gmail.com>
+Changes:
+ pdf-manipulator (0.1.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.10.0
+Checksums-Sha1:
+ a341e26ed1e255bc2d6394370d188ed4285e6add 894 pdf-manipulator_0.1.0-1.dsc
+ caa36f1d75c2e38d839d9122e492683c82ee4004 3298 pdf-manipulator_0.1.0.orig.tar.gz
+ 55197eeccc6e0d4880b140ac5d13635c23394a8b 956 pdf-manipulator_0.1.0-1.debian.tar.xz
+ d12fc974d50837e540bb6cb0387e89d9bbfbf63d 43474 pdf-manipulator_0.1.0-1_source.buildinfo
+Checksums-Sha256:
+ 4e00b5e0d983c17d79cc58d518efa913deaec0699f695c4028ec7469329a4859 894 pdf-manipulator_0.1.0-1.dsc
+ 485f4880590a6258409fe9ffe93edc9a0d5e626aaf515448f1c830ad423fd18f 3298 pdf-manipulator_0.1.0.orig.tar.gz
+ 0ad365ae1420b2ca17a60bb486055b147b77ba668ba58db3b6b537e93ad6bdb3 956 pdf-manipulator_0.1.0-1.debian.tar.xz
+ 5ddc96801e77cef8f0b0ceba2ab46072e35eaa9aa462a004593d52ee20460041 43474 pdf-manipulator_0.1.0-1_source.buildinfo
+Files:
+ 163df91a366d9a07cd81ea76ac93cc4c 894 python optional pdf-manipulator_0.1.0-1.dsc
+ 50f4182ca9947d3be7d50f945e29bbb4 3298 python optional pdf-manipulator_0.1.0.orig.tar.gz
+ fd59d978c49928c8b15774095975ef67 956 python optional pdf-manipulator_0.1.0-1.debian.tar.xz
+ 7f041dd1eb6b03ba731fdad263132d19 43474 python optional pdf-manipulator_0.1.0-1_source.buildinfo

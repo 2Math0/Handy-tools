@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: PDF-Manipulator
+Version: 0.1.0
+Summary: make pdf_manipulator a DEB package
+Home-page: UNKNOWN
+Author: 2Math0
+Author-email: thomas.meshail@gmail.com
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+### This GUI app is made by python, PySimpleGUI package
+Its main function to edit PDFs
+
+for now it has deleting pages function
+
+to install 
+$ dpkg -i package
+

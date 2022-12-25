@@ -1,0 +1,19 @@
+Source: pdf-manipulator
+Maintainer: 2Math0 <thomas.meshail@gmail.com>
+Section: python
+Priority: optional
+Build-Depends: dh-python, python3-setuptools, python3-all, debhelper (>= 9)
+Standards-Version: 3.9.6
+
+Package: python3-pdf-manipulator
+Architecture: all
+Depends: ${misc:Depends}, ${python3:Depends}
+Description: make pdf_manipulator a DEB package
+ ### This GUI app is made by python, PySimpleGUI package
+ Its main function to edit PDFs
+ .
+ for now it has deleting pages function
+ .
+ to install 
+ $ dpkg -i package
+

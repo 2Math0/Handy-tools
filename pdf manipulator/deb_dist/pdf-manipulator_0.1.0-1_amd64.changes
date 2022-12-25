@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Sun, 25 Dec 2022 03:42:17 +0200
+Source: pdf-manipulator
+Binary: python3-pdf-manipulator
+Built-For-Profiles: noudeb
+Architecture: all
+Version: 0.1.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: 2Math0 <thomas.meshail@gmail.com>
+Changed-By: 2Math0 <thomas.meshail@gmail.com>
+Description:
+ python3-pdf-manipulator - make pdf_manipulator a DEB package
+Changes:
+ pdf-manipulator (0.1.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.10.0
+Checksums-Sha1:
+ 8c426617447a762687f47a35f1cbb978a3f32211 43542 pdf-manipulator_0.1.0-1_amd64.buildinfo
+ 5a811657948c9afa279059c9fcf7f23df415b886 3326 python3-pdf-manipulator_0.1.0-1_all.deb
+Checksums-Sha256:
+ 894fdb91714bd1091067ba515331b6796bd04b0eadbb42946c514cd1cfa4a04c 43542 pdf-manipulator_0.1.0-1_amd64.buildinfo
+ 2685ffc17a8cb6d6409e2622ebb01e4268a4ab9d8465af78d1f0bfa57b4b9483 3326 python3-pdf-manipulator_0.1.0-1_all.deb
+Files:
+ 9df1d0690ceea9f28995ec0d309873ad 43542 python optional pdf-manipulator_0.1.0-1_amd64.buildinfo
+ 560d3e676b8b77de2095dcf309863cb8 3326 python optional python3-pdf-manipulator_0.1.0-1_all.deb
